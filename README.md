@@ -1,5 +1,5 @@
 # SpriteForNiagara
-针对Unreal的Sprite图在Niagara下可控播放的案例，可以控制Sprite播放速度。
+针对Unreal Engine 5的Sprite图在Niagara下可控播放的案例，可以控制Sprite播放速度。
 
 
 ## 具体操作方法可以按照以下流程  
